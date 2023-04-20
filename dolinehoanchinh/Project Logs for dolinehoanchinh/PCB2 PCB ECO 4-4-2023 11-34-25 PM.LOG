@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=Motor1
+Change Component Designator: OldDesignator=P2 NewDesignator=Motor2
+Change Component Designator: OldDesignator=P3 NewDesignator=Nguon
+Added Room: Name=Sheet5

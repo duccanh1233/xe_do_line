@@ -1,0 +1,56 @@
+Change Component Designator: OldDesignator=DRV? NewDesignator=DRV1
+Change Component Designator: OldDesignator=ic? NewDesignator=ic1
+Change Component Designator: OldDesignator=LM? NewDesignator=LM1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Added Component: Designator=P3(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Gnd Pin=DRV1-3
+Added Pin To Net: NetName=Gnd Pin=DRV1-8
+Added Pin To Net: NetName=Gnd Pin=DRV1-9
+Added Net: Name=Gnd
+Added Pin To Net: NetName=INA1 Pin=DRV1-14
+Added Pin To Net: NetName=INA1 Pin=ic1-21
+Added Net: Name=INA1
+Added Pin To Net: NetName=INA2 Pin=DRV1-15
+Added Pin To Net: NetName=INA2 Pin=ic1-22
+Added Net: Name=INA2
+Added Pin To Net: NetName=INB1 Pin=DRV1-12
+Added Pin To Net: NetName=INB1 Pin=ic1-27
+Added Net: Name=INB1
+Added Pin To Net: NetName=INB2 Pin=DRV1-11
+Added Pin To Net: NetName=INB2 Pin=ic1-28
+Added Net: Name=INB2
+Added Pin To Net: NetName=NetDRV1_4 Pin=DRV1-4
+Added Pin To Net: NetName=NetDRV1_4 Pin=P1-2
+Added Net: Name=NetDRV1_4
+Added Pin To Net: NetName=NetDRV1_5 Pin=DRV1-5
+Added Pin To Net: NetName=NetDRV1_5 Pin=P1-1
+Added Net: Name=NetDRV1_5
+Added Pin To Net: NetName=NetDRV1_6 Pin=DRV1-6
+Added Pin To Net: NetName=NetDRV1_6 Pin=P2-2
+Added Net: Name=NetDRV1_6
+Added Pin To Net: NetName=NetDRV1_7 Pin=DRV1-7
+Added Pin To Net: NetName=NetDRV1_7 Pin=P2-1
+Added Net: Name=NetDRV1_7
+Added Pin To Net: NetName=NetLM1_Vin+ Pin=P3-2
+Added Net: Name=NetLM1_Vin+
+Added Pin To Net: NetName=NetLM1_Vin- Pin=P3-1
+Added Net: Name=NetLM1_Vin-
+Added Pin To Net: NetName=PWMA Pin=DRV1-16
+Added Pin To Net: NetName=PWMA Pin=ic1-24
+Added Net: Name=PWMA
+Added Pin To Net: NetName=PWMB Pin=DRV1-10
+Added Pin To Net: NetName=PWMB Pin=ic1-26
+Added Net: Name=PWMB
+Added Pin To Net: NetName=Vcc Pin=DRV1-2
+Added Pin To Net: NetName=Vcc Pin=DRV1-13
+Added Net: Name=Vcc
+Added Pin To Net: NetName=Vin Pin=DRV1-1
+Added Pin To Net: NetName=Vin Pin=ic1-15
+Added Net: Name=Vin
+Added Member To Class: ClassName=Sheet5 Member=Component P2 Header 2
+Added Member To Class: ClassName=Sheet5 Member=Component P3 Header 2
+Added Room: Name=Sheet5

@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Added Pin To Net: NetName=NetL1_Vin+ Pin=P3-2
+Added Net: Name=NetL1_Vin+
+Added Pin To Net: NetName=NetL1_Vin- Pin=P3-1
+Added Net: Name=NetL1_Vin-

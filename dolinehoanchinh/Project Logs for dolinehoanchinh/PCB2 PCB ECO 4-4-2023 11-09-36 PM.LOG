@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=Sheet5 Member=LM?
+Added Component: Designator=L?(DIP4 - duplicate)
+Added Pin To Net: NetName=NetL?_Vin+ Pin=P?-2
+Added Net: Name=NetL?_Vin+
+Added Pin To Net: NetName=NetL?_Vin- Pin=P?-1
+Added Net: Name=NetL?_Vin-
+Added Member To Class: ClassName=Sheet5 Member=Component L? LM2596

@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED2
+Change Component Designator: OldDesignator=LED? NewDesignator=LED3
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED2_1
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R2-1
+Added Net: Name=NetLED3_1
+Added Member To Class: ClassName=Sheet5 Member=Component LED2 LED
+Added Member To Class: ClassName=Sheet5 Member=Component LED3 LED
+Added Member To Class: ClassName=Sheet5 Member=Component R1 Res1
+Added Member To Class: ClassName=Sheet5 Member=Component R3 Res1
+Added Room: Name=Sheet5

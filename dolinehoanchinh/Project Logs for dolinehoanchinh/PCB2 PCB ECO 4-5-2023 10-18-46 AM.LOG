@@ -1,0 +1,31 @@
+Added Component: Designator=IR(HDR1X10)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vcc Pin=IR-9
+Added Pin To Net: NetName=Gnd Pin=IR-10
+Added Pin To Net: NetName=IR1 Pin=ic1-4
+Added Pin To Net: NetName=IR1 Pin=IR-1
+Added Net: Name=IR1
+Added Pin To Net: NetName=IR2 Pin=ic1-5
+Added Pin To Net: NetName=IR2 Pin=IR-2
+Added Net: Name=IR2
+Added Pin To Net: NetName=IR3 Pin=ic1-6
+Added Pin To Net: NetName=IR3 Pin=IR-3
+Added Net: Name=IR3
+Added Pin To Net: NetName=IR4 Pin=ic1-7
+Added Pin To Net: NetName=IR4 Pin=IR-4
+Added Net: Name=IR4
+Added Pin To Net: NetName=IR5 Pin=ic1-8
+Added Pin To Net: NetName=IR5 Pin=IR-5
+Added Net: Name=IR5
+Added Pin To Net: NetName=IR6 Pin=ic1-9
+Added Pin To Net: NetName=IR6 Pin=IR-6
+Added Net: Name=IR6
+Added Pin To Net: NetName=IR7 Pin=ic1-10
+Added Pin To Net: NetName=IR7 Pin=IR-7
+Added Net: Name=IR7
+Added Pin To Net: NetName=IR8 Pin=ic1-11
+Added Pin To Net: NetName=IR8 Pin=IR-8
+Added Net: Name=IR8
+Added Member To Class: ClassName=Sheet5 Member=Component IR Header 10

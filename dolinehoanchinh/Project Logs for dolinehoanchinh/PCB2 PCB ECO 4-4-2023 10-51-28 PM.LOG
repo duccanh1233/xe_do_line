@@ -1,0 +1,5 @@
+Added Component: Designator=ic?(ardiuno nano)
+Added Component: Designator=LM?(DIP4 - duplicate)
+Added Member To Class: ClassName=Sheet5 Member=Component ic? ardiuno nano
+Added Member To Class: ClassName=Sheet5 Member=Component LM? LN2596
+Added Member To Class: ClassName=Sheet5 Member=Component P? Header 2

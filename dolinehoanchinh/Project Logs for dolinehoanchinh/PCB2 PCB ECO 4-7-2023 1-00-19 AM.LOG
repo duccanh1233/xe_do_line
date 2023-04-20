@@ -1,0 +1,17 @@
+Added Component: Designator=p3(pin)
+Added Member To Class: ClassName=Sheet5 Member=Component CB Header 3
+Added Member To Class: ClassName=Sheet5 Member=Component DRV1 DRV TB6612
+Added Member To Class: ClassName=Sheet5 Member=Component ic1 ardiuno nano
+Added Member To Class: ClassName=Sheet5 Member=Component IR Header 10
+Added Member To Class: ClassName=Sheet5 Member=Component L1 LM2596
+Added Member To Class: ClassName=Sheet5 Member=Component LED1 LED
+Added Member To Class: ClassName=Sheet5 Member=Component LED2 LED
+Added Member To Class: ClassName=Sheet5 Member=Component LED3 LED
+Added Member To Class: ClassName=Sheet5 Member=Component Motor1 Header 2
+Added Member To Class: ClassName=Sheet5 Member=Component Motor2 Header 2
+Added Member To Class: ClassName=Sheet5 Member=Component Nguon Header 2
+Added Member To Class: ClassName=Sheet5 Member=Component OUT Header 2
+Added Member To Class: ClassName=Sheet5 Member=Component p3 pin
+Added Member To Class: ClassName=Sheet5 Member=Component R1 Res1
+Added Member To Class: ClassName=Sheet5 Member=Component R2 Res1
+Added Member To Class: ClassName=Sheet5 Member=Component R3 Res1
